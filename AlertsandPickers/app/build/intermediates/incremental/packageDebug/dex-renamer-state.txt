@@ -1,0 +1,7 @@
+#Tue Jan 30 19:55:39 IST 2018
+base.0=/home/4-cse-a/andriod/AlertsandPickers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dfa17be2b4a02bf8de6a6038ab2bad472d5385d2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/4-cse-a/andriod/AlertsandPickers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5087332113e34ae2a3bc1d145e3065f260505a5d/classes.dex
+base.1=/home/4-cse-a/andriod/AlertsandPickers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5087332113e34ae2a3bc1d145e3065f260505a5d
+file.0=/home/4-cse-a/andriod/AlertsandPickers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dfa17be2b4a02bf8de6a6038ab2bad472d5385d2/classes.dex
